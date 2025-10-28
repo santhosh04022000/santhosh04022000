@@ -7,6 +7,6 @@
 - ⚡ Fun fact: ..Football player
 
 <!---
-santhosh04022000/santhosh04022000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+santhosh422000/santhosh422000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
